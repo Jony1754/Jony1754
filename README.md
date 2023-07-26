@@ -2,7 +2,7 @@
 <h3 align="center">A front-end developer from Colombia</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jony1754" alt="jony1754" /></a> </p>
+
 
 - 🌱 I’m currently learning **Nest.js and Material UI**
 
